@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
 # 💫 About Me:
-I’m a Computer Science Bachelor’s student in the Netherlands <br>who enjoys turning coffee into code ☕->💻. <br>I’m interested in <br>AI🤖, cybersecurity🔐, and data📊, <br>I’m focused on building a strong foundation in software development.
+🎓 I’m a Computer Science Bachelor’s student in the Netherlands <br>who enjoys turning coffee into code ☕->💻. <br>I’m interested in <br>AI🤖, cybersecurity🔐, and data📊, <br>I’m focused on building a strong foundation in software development.
 
 
 # 💻 Tech Stack:
@@ -13,4 +10,3 @@ I’m a Computer Science Bachelor’s student in the Netherlands <br>who enjoys 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JurDev&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
