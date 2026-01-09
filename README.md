@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a Computer Science Bachelor’s student in the Netherlands <br>who enjoys turning coffee into code ☕->💻. <br>I’m interested in <br>AI🤖, cybersecurity🔐, and data📊, <br>I’m focused on building a strong foundation in software development.
+I’m a Computer Science Bachelor’s student in the Netherlands <br>who enjoys turning coffee into code ☕->💻. <br>I’m interested in <br>AI🤖, cybersecurity🔐, and data📊, <br>I’m focused on building a strong foundation in software development.
 
 
 # 💻 Tech Stack:
